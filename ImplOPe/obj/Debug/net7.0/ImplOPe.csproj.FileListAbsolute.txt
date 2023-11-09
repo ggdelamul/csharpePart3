@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\bin\Debug\net7.0\ImplOPe.exe
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\bin\Debug\net7.0\ImplOPe.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\bin\Debug\net7.0\ImplOPe.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\bin\Debug\net7.0\ImplOPe.dll
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\bin\Debug\net7.0\ImplOPe.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.dll
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\refint\ImplOPe.dll
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ImplOPe.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\ImplOPe\obj\Debug\net7.0\ref\ImplOPe.dll

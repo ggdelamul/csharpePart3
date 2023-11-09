@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\bin\Debug\net7.0\EvalExpress.exe
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\bin\Debug\net7.0\EvalExpress.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\bin\Debug\net7.0\EvalExpress.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\bin\Debug\net7.0\EvalExpress.dll
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\bin\Debug\net7.0\EvalExpress.pdb
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.dll
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\refint\EvalExpress.dll
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.pdb
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\EvalExpress.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\EvalExpress\obj\Debug\net7.0\ref\EvalExpress.dll

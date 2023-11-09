@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\bin\Debug\net7.0\PileOuFace.exe
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\bin\Debug\net7.0\PileOuFace.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\bin\Debug\net7.0\PileOuFace.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\bin\Debug\net7.0\PileOuFace.dll
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\bin\Debug\net7.0\PileOuFace.pdb
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.dll
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\refint\PileOuFace.dll
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.pdb
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\PileOuFace.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\PileOuFace\obj\Debug\net7.0\ref\PileOuFace.dll
