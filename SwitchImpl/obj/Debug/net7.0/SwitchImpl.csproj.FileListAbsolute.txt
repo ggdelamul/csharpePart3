@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\bin\Debug\net7.0\SwitchImpl.exe
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\bin\Debug\net7.0\SwitchImpl.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\bin\Debug\net7.0\SwitchImpl.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\bin\Debug\net7.0\SwitchImpl.dll
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\bin\Debug\net7.0\SwitchImpl.pdb
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.dll
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\refint\SwitchImpl.dll
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.pdb
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\SwitchImpl.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\SwitchImpl\obj\Debug\net7.0\ref\SwitchImpl.dll

@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\bin\Debug\net7.0\ScopeVariable.exe
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\bin\Debug\net7.0\ScopeVariable.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\bin\Debug\net7.0\ScopeVariable.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\bin\Debug\net7.0\ScopeVariable.dll
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\bin\Debug\net7.0\ScopeVariable.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.dll
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\refint\ScopeVariable.dll
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ScopeVariable.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\ScopeVariable\obj\Debug\net7.0\ref\ScopeVariable.dll

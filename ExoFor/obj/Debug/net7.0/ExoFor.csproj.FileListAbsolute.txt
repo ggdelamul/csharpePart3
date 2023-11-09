@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\bin\Debug\net7.0\ExoFor.exe
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\bin\Debug\net7.0\ExoFor.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\bin\Debug\net7.0\ExoFor.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\bin\Debug\net7.0\ExoFor.dll
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\bin\Debug\net7.0\ExoFor.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.dll
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\refint\ExoFor.dll
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ExoFor.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\ExoFor\obj\Debug\net7.0\ref\ExoFor.dll

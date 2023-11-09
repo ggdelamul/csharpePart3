@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\bin\Debug\net7.0\ConverIfInstruc.exe
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\bin\Debug\net7.0\ConverIfInstruc.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\bin\Debug\net7.0\ConverIfInstruc.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\bin\Debug\net7.0\ConverIfInstruc.dll
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\bin\Debug\net7.0\ConverIfInstruc.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.dll
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\refint\ConverIfInstruc.dll
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.pdb
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ConverIfInstruc.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\ConverIfInstruc\obj\Debug\net7.0\ref\ConverIfInstruc.dll

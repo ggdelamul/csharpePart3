@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\bin\Debug\net7.0\DefiUpdateCode.exe
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\bin\Debug\net7.0\DefiUpdateCode.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\bin\Debug\net7.0\DefiUpdateCode.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\bin\Debug\net7.0\DefiUpdateCode.dll
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\bin\Debug\net7.0\DefiUpdateCode.pdb
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.dll
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\refint\DefiUpdateCode.dll
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.pdb
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\DefiUpdateCode.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\DefiUpdateCode\obj\Debug\net7.0\ref\DefiUpdateCode.dll
