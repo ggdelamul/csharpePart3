@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\rpg\bin\Debug\net7.0\rpg.exe
+C:\Users\jerem\Desktop\csharp\partie3\rpg\bin\Debug\net7.0\rpg.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\rpg\bin\Debug\net7.0\rpg.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\rpg\bin\Debug\net7.0\rpg.dll
+C:\Users\jerem\Desktop\csharp\partie3\rpg\bin\Debug\net7.0\rpg.pdb
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.dll
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\refint\rpg.dll
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.pdb
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\rpg.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\rpg\obj\Debug\net7.0\ref\rpg.dll

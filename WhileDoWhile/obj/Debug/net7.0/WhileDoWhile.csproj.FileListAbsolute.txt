@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.exe
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.dll
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\bin\Debug\net7.0\WhileDoWhile.pdb
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.dll
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\refint\WhileDoWhile.dll
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.pdb
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\WhileDoWhile.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\WhileDoWhile\obj\Debug\net7.0\ref\WhileDoWhile.dll
