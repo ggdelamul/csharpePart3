@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\bin\Debug\net7.0\diffDoWhileAndWhile.exe
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\bin\Debug\net7.0\diffDoWhileAndWhile.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\bin\Debug\net7.0\diffDoWhileAndWhile.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\bin\Debug\net7.0\diffDoWhileAndWhile.dll
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\bin\Debug\net7.0\diffDoWhileAndWhile.pdb
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.dll
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\refint\diffDoWhileAndWhile.dll
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.pdb
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\diffDoWhileAndWhile.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\diffDoWhileAndWhile\obj\Debug\net7.0\ref\diffDoWhileAndWhile.dll

@@ -1,0 +1,14 @@
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.AssemblyInfoInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.AssemblyInfo.cs
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\bin\Debug\net7.0\mini3LoopProject.exe
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\bin\Debug\net7.0\mini3LoopProject.deps.json
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\bin\Debug\net7.0\mini3LoopProject.runtimeconfig.json
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\bin\Debug\net7.0\mini3LoopProject.dll
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\bin\Debug\net7.0\mini3LoopProject.pdb
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.dll
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\refint\mini3LoopProject.dll
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.pdb
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\mini3LoopProject.genruntimeconfig.cache
+C:\Users\jerem\Desktop\csharp\partie3\mini3LoopProject\obj\Debug\net7.0\ref\mini3LoopProject.dll
